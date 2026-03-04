@@ -94,13 +94,17 @@ npm run build
 
 ## Screenshot
 
-| Desktop | Desktop (Sidebar) |
-|---|---|
-| ![Desktop](docs/screenshots/Screenshot 2026-03-04 170729.png) | ![Desktop Sidebar](docs/screenshots/Screenshot 2026-03-04 170734.png) |
+### Desktop
+![Desktop View](docs/screenshots/desktop.png)
 
-| Mobile (Sidebar) | Mobile |
-|---|---|
-| ![Mobile Sidebar](docs/screenshots/Screenshot 2026-03-04 170723.png) | ![Mobile](docs/screenshots/Screenshot 2026-03-04 170717.png) |
+### Desktop (Sidebar Open)
+![Desktop Sidebar](docs/screenshots/desktop-sidebar.png)
+
+### Mobile (Sidebar Open)
+![Mobile Sidebar](docs/screenshots/mobile-sidebar.png)
+
+### Mobile
+![Mobile View](docs/screenshots/mobile.png)
 
 Aplikasi menampilkan:
 - Sidebar dengan 3 dropdown filter (Provinsi, Kota/Kabupaten, Kecamatan)
