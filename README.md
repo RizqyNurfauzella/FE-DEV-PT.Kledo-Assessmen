@@ -94,6 +94,14 @@ npm run build
 
 ## Screenshot
 
+| Desktop | Desktop (Sidebar) |
+|---|---|
+| ![Desktop](docs/screenshots/desktop-main.png) | ![Desktop Sidebar](docs/screenshots/desktop-sidebar-open.png) |
+
+| Mobile (Sidebar) | Mobile |
+|---|---|
+| ![Mobile Sidebar](docs/screenshots/mobile-sidebar-open.png) | ![Mobile](docs/screenshots/mobile-main.png) |
+
 Aplikasi menampilkan:
 - Sidebar dengan 3 dropdown filter (Provinsi, Kota/Kabupaten, Kecamatan)
 - Breadcrumb yang menunjukkan path navigasi
